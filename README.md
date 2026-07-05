@@ -6,7 +6,7 @@
 
 💻 I work at SSW https://www.ssw.com.au/people/alvin-shen
 
-🌱 I’m currently learning how to use the AI tool Trae to program.
+🌱 I’m currently using Claude/Codex/Kimi/Deepseek to code.
 
 ⚡ I'm Chinese Australian crazy about Japanese culture. I can speak English, Chinese and Japanese. 
 
