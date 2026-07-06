@@ -11,5 +11,3 @@
 ⚡ I'm Chinese Australian crazy about Japanese culture. I can speak English, Chinese and Japanese. 
 
 📫 How to reach me: AlvinShen@ssw.com.au
-
-![AlvinShenSSW's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvinShenSSW&theme=dark)
