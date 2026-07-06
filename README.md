@@ -12,4 +12,4 @@
 
 📫 How to reach me: AlvinShen@ssw.com.au
 
-[![{{NAME}}'s github stats](https://github-readme-stats.vercel.app/api?username=AlvinShenSSW&amp;theme=dark)](https://github.com/AlvinShenSSW/github-readme-stats)
+![AlvinShenSSW's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvinShenSSW&theme=dark)
